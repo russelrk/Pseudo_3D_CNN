@@ -1,7 +1,5 @@
 # Pseudo_3D_CNN: Transfer Learning for Modifying Pre-trained CNN Models to Accommodate X Number of Channels
 
-![Transfer Learning Banner](images/transfer_learning_banner.png)
-
 This repository provides a step-by-step guide and code examples on how to modify a pre-trained Convolutional Neural Network (CNN) model to accommodate a different number of input channels while leveraging the concept of transfer learning. 
 
 ## Table of Contents
